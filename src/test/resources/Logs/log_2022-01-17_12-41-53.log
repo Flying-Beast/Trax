@@ -1,0 +1,37 @@
+17/Jan/2022 12:41:54,521 INFO  [Listener.java:45] : Test Suite ---> Test Started ***
+17/Jan/2022 12:42:16,636 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+17/Jan/2022 12:42:16,825 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+17/Jan/2022 12:42:17,902 INFO  [Listener.java:15] : Running test method ---> C2408_walletValidation
+17/Jan/2022 12:42:22,806 INFO  [AssetsPage.java:137] : Verifying the Currency Icon and Currency being displayed or not
+17/Jan/2022 12:42:22,813 INFO  [Listener.java:20] : Successfully Executed ---> C2408_walletValidation
+17/Jan/2022 12:42:47,725 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+17/Jan/2022 12:42:47,946 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+17/Jan/2022 12:42:50,397 INFO  [Listener.java:15] : Running test method ---> C2415_CTIsValidation
+17/Jan/2022 12:42:56,161 INFO  [AssetsPage.java:145] : Clicking on random CTI among the list of CTIs
+17/Jan/2022 12:44:17,846 ERROR [Listener.java:25] : Test execution ---> C2415_CTIsValidation failed...
+17/Jan/2022 12:44:37,128 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+17/Jan/2022 12:44:37,353 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+17/Jan/2022 12:44:40,595 INFO  [Listener.java:15] : Running test method ---> C2387_profileVerificationStatusValidation
+17/Jan/2022 12:44:40,758 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+17/Jan/2022 12:44:45,899 INFO  [ProfilePage.java:87] : Verifying wether the profile has been completely verified or not
+17/Jan/2022 12:44:45,904 INFO  [Listener.java:20] : Successfully Executed ---> C2387_profileVerificationStatusValidation
+17/Jan/2022 12:45:06,734 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+17/Jan/2022 12:45:06,928 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+17/Jan/2022 12:45:07,986 INFO  [Listener.java:15] : Running test method ---> C2389_passwordChangeValidation
+17/Jan/2022 12:45:08,167 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+17/Jan/2022 12:45:10,825 INFO  [ProfilePage.java:98] : Verifying the change password page in profile section
+17/Jan/2022 12:45:11,765 INFO  [Listener.java:20] : Successfully Executed ---> C2389_passwordChangeValidation
+17/Jan/2022 12:45:29,780 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+17/Jan/2022 12:45:29,981 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+17/Jan/2022 12:45:30,947 INFO  [Listener.java:15] : Running test method ---> C2391_referalLinkValidation
+17/Jan/2022 12:45:31,097 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+17/Jan/2022 12:45:34,293 INFO  [ProfilePage.java:115] : Verifying the referral link in profile section
+17/Jan/2022 12:45:34,294 INFO  [Listener.java:20] : Successfully Executed ---> C2391_referalLinkValidation
+17/Jan/2022 12:45:51,588 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+17/Jan/2022 12:45:51,775 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+17/Jan/2022 12:45:53,481 INFO  [Listener.java:15] : Running test method ---> C2395_accountActivityValidation
+17/Jan/2022 12:45:53,683 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+17/Jan/2022 12:46:03,827 INFO  [ProfilePage.java:155] : Verifying the dates in descending order
+17/Jan/2022 12:46:15,836 INFO  [ProfilePage.java:131] : Verifying different accocunt activities in profile section
+17/Jan/2022 12:46:34,202 INFO  [Listener.java:20] : Successfully Executed ---> C2395_accountActivityValidation
+17/Jan/2022 12:46:37,146 INFO  [Listener.java:50] : Test Suite ---> Test Ending ***

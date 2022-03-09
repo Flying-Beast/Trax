@@ -1,0 +1,20 @@
+24/Jan/2022 17:06:41,003 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+24/Jan/2022 17:06:41,331 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+24/Jan/2022 17:06:42,397 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+24/Jan/2022 17:06:45,976 INFO  [ProfilePage.java:87] : Verifying wether the profile has been completely verified or not
+24/Jan/2022 17:07:04,710 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+24/Jan/2022 17:07:04,976 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+24/Jan/2022 17:07:06,384 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+24/Jan/2022 17:07:08,600 INFO  [ProfilePage.java:98] : Verifying the change password page in profile section
+24/Jan/2022 17:07:28,075 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+24/Jan/2022 17:07:28,404 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+24/Jan/2022 17:07:29,457 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+24/Jan/2022 17:07:32,754 INFO  [ProfilePage.java:115] : Verifying the referral link in profile section
+24/Jan/2022 17:07:54,999 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+24/Jan/2022 17:07:55,167 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+24/Jan/2022 17:07:56,264 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+24/Jan/2022 17:08:02,789 INFO  [ProfilePage.java:155] : Verifying the dates in descending order
+24/Jan/2022 17:08:14,454 INFO  [ProfilePage.java:131] : Verifying different accocunt activities in profile section
+24/Jan/2022 17:08:45,724 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+24/Jan/2022 17:08:45,946 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+24/Jan/2022 17:08:47,003 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up

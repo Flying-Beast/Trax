@@ -1,0 +1,27 @@
+17/Jan/2022 13:10:36,950 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+17/Jan/2022 13:10:37,138 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+17/Jan/2022 13:10:42,033 INFO  [AssetsPage.java:109] : Fetching the USDc balance of the buy order
+17/Jan/2022 13:10:42,143 INFO  [AssetsPage.java:118] : Fetching the locked amount of the buy order
+17/Jan/2022 13:10:43,520 INFO  [TradePage.java:565] : Selecting advanced type of trading
+17/Jan/2022 13:10:45,355 INFO  [TradePage.java:222] : Clicking on random CTI among the list of CTIs
+17/Jan/2022 13:10:46,441 INFO  [TradePage.java:581] : Adjusting the Order book block
+17/Jan/2022 13:10:46,653 INFO  [TradePage.java:232] : Clicking on buying price among the list of prices
+17/Jan/2022 13:10:47,510 INFO  [TradePage.java:278] : Inserting random quantity of units to buy
+17/Jan/2022 13:10:47,609 INFO  [TradePage.java:285] : Geting the amount being auto generated for respective price and quantity
+17/Jan/2022 13:10:47,876 INFO  [TradePage.java:301] : Clicking on Buy button
+17/Jan/2022 13:11:18,765 INFO  [HomePage.java:171] : Clicking on Orders of registration page
+17/Jan/2022 13:11:19,508 INFO  [OrdersPage.java:279] : Verifying the Order type present in Order tab with recently made order from trade tab
+17/Jan/2022 13:11:19,613 INFO  [OrdersPage.java:288] : Verifying the CTI present in Order tab with recently made order from trade tab
+17/Jan/2022 13:11:19,748 INFO  [OrdersPage.java:297] : Verifying the price present in Order tab with recently made order from trade tab
+17/Jan/2022 13:11:20,318 INFO  [OrdersPage.java:415] : Verifying the Buy price deducted from the USDc
+17/Jan/2022 13:11:20,827 INFO  [AssetsPage.java:109] : Fetching the USDc balance of the buy order
+17/Jan/2022 13:11:20,828 INFO  [OrdersPage.java:312] : Verifying the Buy price deducted from the USDc
+17/Jan/2022 13:11:21,166 INFO  [HomePage.java:171] : Clicking on Orders of registration page
+17/Jan/2022 13:11:21,698 INFO  [OrdersPage.java:175] : Verifying the filters for order type
+17/Jan/2022 13:11:29,384 INFO  [OrdersPage.java:218] : Verifying the filters for status type
+17/Jan/2022 13:11:38,637 INFO  [OrdersPage.java:248] : Verifying the dates in proper order
+17/Jan/2022 13:11:42,202 INFO  [TradePage.java:911] : Fetching the open order price
+17/Jan/2022 13:11:42,416 INFO  [TradePage.java:919] : Fetching the open order quantity
+17/Jan/2022 13:11:47,278 INFO  [AssetsPage.java:118] : Fetching the locked amount of the buy order
+17/Jan/2022 13:11:47,279 INFO  [OrdersPage.java:363] : Verifying the Buy price added to the Locked Amount
+17/Jan/2022 13:11:47,697 INFO  [HomePage.java:171] : Clicking on Orders of registration page

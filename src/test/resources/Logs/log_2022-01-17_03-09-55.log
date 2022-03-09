@@ -1,0 +1,13 @@
+17/Jan/2022 15:10:14,561 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+17/Jan/2022 15:10:14,819 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+17/Jan/2022 15:10:20,154 INFO  [AssetsPage.java:137] : Verifying the Currency Icon and Currency being displayed or not
+17/Jan/2022 15:10:39,330 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+17/Jan/2022 15:10:39,576 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+17/Jan/2022 15:10:45,127 INFO  [AssetsPage.java:145] : Clicking on random CTI among the list of CTIs
+17/Jan/2022 15:10:57,483 INFO  [AssetsPage.java:261] : Verifying the CTIs info details icon mouse-hover and details page redirected upon clicking or not
+17/Jan/2022 15:10:57,827 INFO  [AssetsPage.java:145] : Clicking on random CTI among the list of CTIs
+17/Jan/2022 15:10:58,771 INFO  [AssetsPage.java:172] : Verifying the CTI details being displayed and are not empty
+17/Jan/2022 15:11:00,140 INFO  [AssetsPage.java:198] : Verifying the dates in proper order
+17/Jan/2022 15:11:01,598 INFO  [AssetsPage.java:211] : Verifying the directions of the transaction history whether its buy Or sell
+17/Jan/2022 15:11:02,728 INFO  [AssetsPage.java:220] : Verifying the amount of the transaction history whether displayed or not
+17/Jan/2022 15:11:03,087 INFO  [AssetsPage.java:155] : Clicking on random Composition among the list

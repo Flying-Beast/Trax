@@ -1,0 +1,6 @@
+17/Jan/2022 13:15:25,529 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+17/Jan/2022 13:15:25,738 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+17/Jan/2022 13:15:42,524 INFO  [AssetsPage.java:118] : Fetching the locked amount of the buy order
+17/Jan/2022 13:15:42,689 INFO  [HomePage.java:178] : Clicking on Trade from homepage
+17/Jan/2022 13:15:43,389 INFO  [TradePage.java:565] : Selecting advanced type of trading
+17/Jan/2022 13:15:44,681 INFO  [TradePage.java:222] : Clicking on random CTI among the list of CTIs

@@ -1,0 +1,36 @@
+19/Jan/2022 13:59:28,622 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+19/Jan/2022 13:59:28,891 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+19/Jan/2022 13:59:34,216 INFO  [HomePage.java:178] : Clicking on Trade from homepage
+19/Jan/2022 13:59:34,487 INFO  [HomePage.java:185] : Clicking on advanced type of trade from homepage
+19/Jan/2022 13:59:36,311 INFO  [TradePage.java:213] : Entering the search field with valid data
+19/Jan/2022 13:59:41,601 INFO  [TradePage.java:340] : Verifying whether the market price has been sorted in ascending order or not
+19/Jan/2022 13:59:43,038 INFO  [TradePage.java:352] : Verifying whether the market price has been sorted in descending order or not
+19/Jan/2022 13:59:43,416 INFO  [TradePage.java:222] : Clicking on random CTI among the list of CTIs
+19/Jan/2022 13:59:45,735 INFO  [TradePage.java:383] : Verifying the CTI details upon clicking on a random CTI
+19/Jan/2022 14:00:00,706 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+19/Jan/2022 14:00:00,935 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+19/Jan/2022 14:00:06,977 INFO  [HomePage.java:178] : Clicking on Trade from homepage
+19/Jan/2022 14:00:07,255 INFO  [HomePage.java:185] : Clicking on advanced type of trade from homepage
+19/Jan/2022 14:00:08,354 INFO  [TradePage.java:222] : Clicking on random CTI among the list of CTIs
+19/Jan/2022 14:00:11,125 INFO  [TradePage.java:581] : Adjusting the Order book block
+19/Jan/2022 14:00:14,209 INFO  [TradePage.java:400] : Verifying the selling properties present on the webpage or not
+19/Jan/2022 14:00:14,446 INFO  [TradePage.java:222] : Clicking on random CTI among the list of CTIs
+19/Jan/2022 14:00:16,455 INFO  [TradePage.java:581] : Adjusting the Order book block
+19/Jan/2022 14:00:18,468 INFO  [TradePage.java:435] : Verifying the buying properties present on the webpage or not
+19/Jan/2022 14:00:19,244 INFO  [TradePage.java:460] : Verifying the last market price updated and block adjustment
+19/Jan/2022 14:00:38,619 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+19/Jan/2022 14:00:38,851 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+19/Jan/2022 14:00:43,990 INFO  [HomePage.java:178] : Clicking on Trade from homepage
+19/Jan/2022 14:00:44,206 INFO  [HomePage.java:185] : Clicking on advanced type of trade from homepage
+19/Jan/2022 14:00:47,602 INFO  [TradePage.java:449] : Verifying the buying price of buy limit order type
+19/Jan/2022 14:00:49,196 INFO  [TradePage.java:481] : Verifying the color of the Buy orders
+19/Jan/2022 14:00:51,263 INFO  [TradePage.java:581] : Adjusting the Order book block
+19/Jan/2022 14:00:51,865 INFO  [TradePage.java:293] : Selecting the Sell type of order
+19/Jan/2022 14:00:51,938 INFO  [TradePage.java:416] : Verifying the selling price of sell limit order type
+19/Jan/2022 14:00:52,227 INFO  [TradePage.java:312] : Clicking on Sell button
+19/Jan/2022 14:00:57,334 INFO  [TradePage.java:502] : Verifying the color of the Buy/Sell orders
+19/Jan/2022 14:00:58,262 INFO  [TradePage.java:526] : Adjusting the Open Orders block
+19/Jan/2022 14:00:58,707 INFO  [TradePage.java:537] : Clicked on cancel cross button
+19/Jan/2022 14:00:59,454 INFO  [TradePage.java:540] : Order is being cancelled display
+19/Jan/2022 14:00:59,641 INFO  [TradePage.java:544] : Clicked on cancel all button
+19/Jan/2022 14:01:00,951 INFO  [TradePage.java:547] : All orders are being canceled display

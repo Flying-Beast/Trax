@@ -1,0 +1,17 @@
+17/Jan/2022 13:07:49,984 INFO  [HomePage.java:80] : Clicking on section for registration page pop-up
+17/Jan/2022 13:07:50,358 INFO  [HomePage.java:85] : Clicking on sign-in of registration page
+17/Jan/2022 13:07:57,679 INFO  [AssetsPage.java:109] : Fetching the USDc balance of the buy order
+17/Jan/2022 13:07:57,789 INFO  [AssetsPage.java:118] : Fetching the locked amount of the buy order
+17/Jan/2022 13:07:59,080 INFO  [TradePage.java:565] : Selecting advanced type of trading
+17/Jan/2022 13:08:02,474 INFO  [TradePage.java:222] : Clicking on random CTI among the list of CTIs
+17/Jan/2022 13:08:03,432 INFO  [TradePage.java:581] : Adjusting the Order book block
+17/Jan/2022 13:08:09,746 INFO  [TradePage.java:232] : Clicking on buying price among the list of prices
+17/Jan/2022 13:08:10,261 INFO  [TradePage.java:278] : Inserting random quantity of units to buy
+17/Jan/2022 13:08:10,366 INFO  [TradePage.java:285] : Geting the amount being auto generated for respective price and quantity
+17/Jan/2022 13:08:10,651 INFO  [TradePage.java:301] : Clicking on Buy button
+17/Jan/2022 13:08:41,490 INFO  [HomePage.java:171] : Clicking on Orders of registration page
+17/Jan/2022 13:08:43,941 INFO  [OrdersPage.java:279] : Verifying the Order type present in Order tab with recently made order from trade tab
+17/Jan/2022 13:08:44,162 INFO  [OrdersPage.java:288] : Verifying the CTI present in Order tab with recently made order from trade tab
+17/Jan/2022 13:08:44,358 INFO  [OrdersPage.java:297] : Verifying the price present in Order tab with recently made order from trade tab
+17/Jan/2022 13:08:44,896 INFO  [OrdersPage.java:415] : Verifying the Buy price deducted from the USDc
+17/Jan/2022 13:08:45,583 INFO  [AssetsPage.java:109] : Fetching the USDc balance of the buy order
